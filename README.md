@@ -1,4 +1,7 @@
-# Installation Instructions
+# Dashboard
+
+![Dashboard-1](public/images/dash-1.jpeg)
+![Dashboard-1](public/images/dash-2.jpeg)
 
 ## 1. Install npm and Node.js
 
